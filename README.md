@@ -1,4 +1,4 @@
-### G'day mate !! How's it going ? 👋
+### Great day mate !! How's it going ? 👋
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 ![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuGautamGitHub.HimanshuGautamGitHub)
 [![Linkedin Badge](https://img.shields.io/badge/-Himanshu_Gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamhimanshu/)](https://www.linkedin.com/in/gautamhimanshu/)
