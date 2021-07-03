@@ -33,10 +33,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugautamgithub&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
 </a>
 <a href="https://github.com/himanshugautamgithub/himanshugautamgithub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugautamgithub&show_icons=true&line_height=23&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-  
-  
-<a href="https://github.com/himanshugautamgithub/himanshugautamgithub">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugautamgithub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="himanshugautamgithub" />
-  
-</a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugautamgithub&show_icons=true&line_height=20&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+ </a>
