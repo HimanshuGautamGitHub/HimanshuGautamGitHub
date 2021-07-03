@@ -28,16 +28,15 @@
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 <h2> </h2>
-<div class="row">
-  <div class="column">
-  <img align="left" style="width:80%" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugautamgithub&show_icons=true&locale=en&layout=compact" alt="himanshugautamgithub" />
-  </div>
 
-<div class="column">
-  <img align="center" style="width:60%;height:60%" src="https://github-readme-stats.vercel.app/api?username=himanshugautamgithub&show_icons=true&count_private=true&locale=en" alt="himanshugautamgithub" />
-  </div>
-
-<div class="column">
-  <img align="center" style="width:50%" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugautamgithub&" alt="himanshugautamgithub" />
-  </div>
-</div>
+<a href="https://github.com/himanshugautamgithub/himanshugautamgithub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshugautamgithub&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
+</a>
+<a href="https://github.com/himanshugautamgithub/himanshugautamgithub">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugautamgithub&show_icons=true&line_height=23&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+  
+  
+<a href="https://github.com/himanshugautamgithub/himanshugautamgithub">
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugautamgithub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="himanshugautamgithub" />
+  
+</a>
