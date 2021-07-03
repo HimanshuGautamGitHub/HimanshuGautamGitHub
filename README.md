@@ -1,5 +1,7 @@
-### Great day mate !! How's it going ? 👋
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<h1 align="center" style="display:inline; !important">Hi 👋, I'm Himanshu Gautam</h1>
+<h3 align="center">Data Engineer | Data Scientist | ML AI Expert | Big Data Specialist | Vice President Morgan Stanley</h3>
+<h1> </h1>
+
 ![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuGautamGitHub.HimanshuGautamGitHub)
 [![Linkedin Badge](https://img.shields.io/badge/-Himanshu_Gautam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gautamhimanshu/)](https://www.linkedin.com/in/gautamhimanshu/)
 [![Gmail Badge](https://img.shields.io/badge/-Contact_email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hgautam.himanshu@gmail.com)](mailto:hgautam.himanshu@gmail.com)
@@ -27,10 +29,8 @@
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
 
 
-<a href="https://github.com/HimanshuGautamGitHub/HimanshuGautamGitHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGautamGitHub&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5&layout=compact" />
-</a>
-<a href="https://github.com/HimanshuGautamGitHub/HimanshuGautamGitHub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HimanshuGautamGitHub&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Himanshu Gautam's GitHub Stats" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugautamgithub&show_icons=true&locale=en&layout=compact" alt="himanshugautamgithub" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugautamgithub&count_private=true&show_icons=true&locale=en" alt="himanshugautamgithub" /></p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugautamgithub&" alt="himanshugautamgithub" /></p>
