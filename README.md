@@ -27,10 +27,9 @@
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Jupyter-informational?style=flat&logo=Jupyter&logoColor=white&color=2bbc8a)
-
-
+<h2> </h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshugautamgithub&show_icons=true&locale=en&layout=compact" alt="himanshugautamgithub" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugautamgithub&count_private=true&show_icons=true&locale=en" alt="himanshugautamgithub" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himanshugautamgithub&show_icons=true&count_private=true&locale=en" alt="himanshugautamgithub" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugautamgithub&" alt="himanshugautamgithub" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshugautamgithub&" alt="himanshugautamgithub" /></p>
